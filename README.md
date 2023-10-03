@@ -1,1 +1,1 @@
-# flask-example-begginer
+# flask simple app example
